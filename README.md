@@ -109,4 +109,4 @@ MIT License — open source, free to use for any district administration.
 
 ---
 
-<p align="center">Built with ❤️ for Bharat · HackXtreme 2025</p>
+
